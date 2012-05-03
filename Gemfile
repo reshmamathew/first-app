@@ -7,7 +7,7 @@ gem 'sqlite3', '1.3.3', :group => :development
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-
+gem 'pg'
 
 # Use unicorn as the web server
 # gem 'unicorn'
